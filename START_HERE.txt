@@ -1,0 +1,15 @@
+SIGNALSCOPE FOR WINDOWS 11
+
+1. Extract the entire ZIP.
+2. Double-click Setup.cmd (requires Python 3.12 or newer).
+3. Double-click Start.cmd.
+4. Click Start in the app.
+5. After about one minute, click Save current baseline.
+
+To preview simulated signals, double-click Demo.cmd.
+
+This download includes runnable Python source, not a prebuilt EXE.
+An optional Build_EXE.cmd builds an EXE on your Windows computer.
+
+Live Wi-Fi/Bluetooth and the Windows GUI still require testing on your PC.
+See README.md for details, hardware requirements and troubleshooting.
